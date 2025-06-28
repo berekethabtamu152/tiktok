@@ -1,0 +1,48 @@
+body {
+    background-color: #000;
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.login-box {
+    background-color: #111;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+    width: 300px;
+}
+input {
+    padding: 10px;
+    width: 90%;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+}
+.logo {
+    width: 100px;
+    margin-bottom: 20px;
+}
+.submit-btn {
+    background-color: #ff0050;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button {
+width: 100%;
+padding: 10px;
+background-color: #fe2c55;
+color: white;
+border: none;
+border-radius: 5px;
+font-weight: bold;
+cursor: pointer;
+}
+
+button:hover {
+background-color: #ff3b65;
+}
